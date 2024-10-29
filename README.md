@@ -10,10 +10,6 @@ and have a valid license. First export the license such that it is available in 
 export LM_LICENSE_FILE=/path/to/molsoft/license.dat
 ```
 
-```bash 
-export LM_LICENSE_FILE=/path/to/molsoft/license.dat
-```
-
 confirm that molsoft is working:
 
 ```bash
